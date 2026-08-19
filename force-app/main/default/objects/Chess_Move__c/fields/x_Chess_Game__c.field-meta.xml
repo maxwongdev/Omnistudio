@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Chess_Game__c</fullName>
+    <fullName>x_Chess_Game__c</fullName>
     <label>Chess Game</label>
     <referenceTo>Chess_Game__c</referenceTo>
     <relationshipLabel>Moves</relationshipLabel>
